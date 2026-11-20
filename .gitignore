@@ -1,0 +1,25 @@
+# --- Rahasia lokal: berisi password PostgreSQL. Salin dari settings.example.ini ---
+config/settings.ini
+
+# --- Hasil ETL: dibuat ulang setiap run dan berisi data dosen ---
+output/
+
+# --- Dataset sumber: data internal Sekpim FIF, tidak diunggah ---
+*.xlsx
+*.xls
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Editor dan sistem operasi ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

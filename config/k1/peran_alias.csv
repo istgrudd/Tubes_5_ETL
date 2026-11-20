@@ -1,0 +1,23 @@
+nilai_sumber,kode_peran
+ketua,KETUA
+ketua tim,KETUA
+wakil ketua,WAKIL_KETUA
+pengarah,PENGARAH
+steering committee,PENGARAH
+pembina,PEMBINA
+pic,PIC
+sekretaris,SEKRETARIS
+narasumber,NARASUMBER
+invited speaker,NARASUMBER
+pembimbing,PEMBIMBING
+penguji,PENGUJI
+asesor,ASESOR
+asessor,ASESOR
+reviewer,REVIEWER
+reviwer,REVIEWER
+juri,JURI
+pewawancara,PEWAWANCARA
+penyusun,PENYUSUN
+pelaksana,PELAKSANA
+anggota,ANGGOTA
+peserta,PESERTA

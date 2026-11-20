@@ -1,0 +1,8 @@
+kode_kegiatan,pola_regex
+PENGABDIAN,abdimas|pengabdian|untuk masyarakat|advokasi|in house training|\bsma\b|\bsmp\b|masjid
+PENELITIAN,penelitian|riset|revie\w*|reviwer|jurnal|journal|scopus|paper|icoict|icoseit|icicyta|iwbis|conference|frontiers
+AKREDITASI_MUTU,akreditasi|asess?or|ban-pt|lam infokom|borang|bkd
+PENDIDIKAN,kurikulum|pembelajaran|pembimbing|capstone|\bmk\b|mata ?kuliah|remedial|trial class|sidang|disertasi|menguji|penguji|seleksi penerimaan|kompetisi|mcm|gemastik|hackathon|summer school|camp
+TATA_KELOLA,renstra|branding|developer aplikasi|pic lab|kerjasama|internasionalisasi|usulan program studi|ajuan prodi|anggaran|market day|tim 3c|tancap|liaison officer
+PENGEMBANGAN_KOMPETENSI,pelatihan|workshop|webinar|pekerti|sertifikasi|coaching
+LAINNYA,rapat|kunjungan|undangan|beasiswa|lpdp

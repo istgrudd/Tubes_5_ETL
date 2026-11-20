@@ -1,0 +1,69 @@
+nilai_sumber,mitra_id,nama_mitra,jenis_mitra
+telu,TELKOM_UNIVERSITY,Telkom University (internal),INTERNAL
+telu-,TELKOM_UNIVERSITY,Telkom University (internal),INTERNAL
+telkom university,TELKOM_UNIVERSITY,Telkom University (internal),INTERNAL
+telkom uinversity,TELKOM_UNIVERSITY,Telkom University (internal),INTERNAL
+telu-sejong,SEJONG_UNIVERSITY,Sejong University,PERGURUAN_TINGGI
+telu-komdigi,KOMDIGI,Kementerian Komunikasi dan Digital,PEMERINTAH
+komdigi,KOMDIGI,Kementerian Komunikasi dan Digital,PEMERINTAH
+omdigi,KOMDIGI,Kementerian Komunikasi dan Digital,PEMERINTAH
+kementerian,KEMENTERIAN_TIDAK_DISEBUT,Kementerian (nama tidak disebut),PEMERINTAH
+kementrian,KEMENTERIAN_TIDAK_DISEBUT,Kementerian (nama tidak disebut),PEMERINTAH
+kemendikbud,KEMENDIKBUD,Kemendikbud,PEMERINTAH
+kemendikdasmen,KEMENDIKDASMEN,Kemendikdasmen,PEMERINTAH
+dikti,DIKTI,Ditjen Dikti,PEMERINTAH
+brin,BRIN,Badan Riset dan Inovasi Nasional,PEMERINTAH
+bi,BANK_INDONESIA,Bank Indonesia,PEMERINTAH
+ojk,OJK,Otoritas Jasa Keuangan,PEMERINTAH
+lpdp,LPDP,Lembaga Pengelola Dana Pendidikan,PEMERINTAH
+puslabfor bareskrim polri,PUSLABFOR_POLRI,Puslabfor Bareskrim Polri,PEMERINTAH
+ban-pt,BAN_PT,BAN-PT,PEMERINTAH
+lppip,LPPIP,LPPIP Telkom University,INTERNAL
+sma 25 bandung,SMAN_25_BANDUNG,SMA Negeri 25 Bandung,PEMERINTAH
+aptikom,APTIKOM,APTIKOM,KOMUNITAS
+ieee,IEEE,IEEE,KOMUNITAS
+masjid al hikmah,MASJID_AL_HIKMAH,Masjid Al Hikmah,KOMUNITAS
+mcm-icm,MCM_ICM,MCM/ICM (COMAP),KOMUNITAS
+microsoft,MICROSOFT,Microsoft,INDUSTRI
+cv .audio putra raya,CV_AUDIO_PUTRA_RAYA,CV Audio Putra Raya,INDUSTRI
+penerbit deepublish,DEEPUBLISH,Penerbit Deepublish,INDUSTRI
+isbn,ISBN,ISBN (Perpusnas),LAINNYA
+"scopus, q1",JURNAL_TIDAK_DISEBUT,Jurnal ilmiah (nama tidak disebut),LAINNYA
+"scopus, q3",JURNAL_TIDAK_DISEBUT,Jurnal ilmiah (nama tidak disebut),LAINNYA
+copus q3,JURNAL_TIDAK_DISEBUT,Jurnal ilmiah (nama tidak disebut),LAINNYA
+journal,JURNAL_TIDAK_DISEBUT,Jurnal ilmiah (nama tidak disebut),LAINNYA
+jurnal,JURNAL_TIDAK_DISEBUT,Jurnal ilmiah (nama tidak disebut),LAINNYA
+american journal,AMERICAN_JOURNAL_EAS,American Journal of Engineering and Applied Sciences,LAINNYA
+array,JURNAL_ARRAY,Array (Elsevier),LAINNYA
+baghdad,BAGHDAD_SCIENCE_JOURNAL,Baghdad Science Journal,LAINNYA
+data science:,DS_JCAI,Data Science: Journal of Computing and Applied Informatics,LAINNYA
+frontiers,FRONTIERS,Frontiers,LAINNYA
+frontiers in plant science,FRONTIERS,Frontiers,LAINNYA
+recent advances in computer science and communication,RACSC,Recent Advances in Computer Science and Communications,LAINNYA
+(iwbis 2026),IWBIS,IWBIS (konferensi),LAINNYA
+icicyta,ICICYTA,ICICyTA (konferensi),LAINNYA
+ibtpi-riau,IBTPI_RIAU,IBTPI Riau,PERGURUAN_TINGGI
+institut kesehatan payung negeri pekanbaru,IK_PAYUNG_NEGERI,Institut Kesehatan Payung Negeri Pekanbaru,PERGURUAN_TINGGI
+institut teknologi sumatera,ITERA,Institut Teknologi Sumatera,PERGURUAN_TINGGI
+politeknik piksi ganesha,POLTEK_PIKSI_GANESHA,Politeknik Piksi Ganesha,PERGURUAN_TINGGI
+sekolahtinggi teknologi payakumbuh,STT_PAYAKUMBUH,Sekolah Tinggi Teknologi Payakumbuh,PERGURUAN_TINGGI
+ugm,UGM,Universitas Gadjah Mada,PERGURUAN_TINGGI
+ui-depok,UI,Universitas Indonesia,PERGURUAN_TINGGI
+ulbi,ULBI,Universitas Logistik dan Bisnis Internasional,PERGURUAN_TINGGI
+unesa,UNESA,Universitas Negeri Surabaya,PERGURUAN_TINGGI
+univ. negeri surabaya,UNESA,Universitas Negeri Surabaya,PERGURUAN_TINGGI
+unimus,UNIMUS,Universitas Muhammadiyah Semarang,PERGURUAN_TINGGI
+univ semarang,UNIV_SEMARANG,Universitas Semarang,PERGURUAN_TINGGI
+universitas diponegoro sekolah pascasarjana,UNDIP,Universitas Diponegoro,PERGURUAN_TINGGI
+universitas islam negeri sultan syarif kasim riau,UIN_SUSKA_RIAU,UIN Sultan Syarif Kasim Riau,PERGURUAN_TINGGI
+unpad,UNPAD,Universitas Padjadjaran,PERGURUAN_TINGGI
+unsil tasikmalaya,UNSIL,Universitas Siliwangi,PERGURUAN_TINGGI
+utb,UTB,Universitas Teknologi Bandung,PERGURUAN_TINGGI
+univ.gorontalo,UNG,Universitas Negeri Gorontalo,PERGURUAN_TINGGI
+univ.islamnegeri sunan kalijaga yogyakarta,UIN_SUKA,UIN Sunan Kalijaga Yogyakarta,PERGURUAN_TINGGI
+univ.matana,UNIV_MATANA,Universitas Matana,PERGURUAN_TINGGI
+univ.muhammadiyah jambi,UM_JAMBI,Universitas Muhammadiyah Jambi,PERGURUAN_TINGGI
+univ.pembagunan jaya,UPJ,Universitas Pembangunan Jaya,PERGURUAN_TINGGI
+universitas bhakti kencana,UBK,Universitas Bhakti Kencana,PERGURUAN_TINGGI
+universitas islam negeri mahmud yunus batusangkar,UIN_MY_BATUSANGKAR,UIN Mahmud Yunus Batusangkar,PERGURUAN_TINGGI
+universitas sriwijaya,UNSRI,Universitas Sriwijaya,PERGURUAN_TINGGI
